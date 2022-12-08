@@ -40,7 +40,7 @@ class Solution(object):
 object1 = Solution()
 print('Enter roman numeral')
 romanstr = input().upper()
-print('Your roman numera ' +romanstr, ' is ' +str(object1.romanToInt(romanstr)))
+print('Your roman numeral ' +romanstr, ' is ' +str(object1.romanToInt(romanstr)))
                     
 
 
